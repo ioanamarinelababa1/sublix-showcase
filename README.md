@@ -69,21 +69,10 @@ Sublix has been built and tested with security as a priority.
 | Input Sanitization | All user inputs sanitized server-side |
 ---
 
-## Screenshots
 
-> Coming soon
+## Where to find it?
 
----
-
-## Live Demo
-
-> Coming soon
-
----
-
-## Contact
-
-> Coming soon
+https://www.sublix.org/
 
 ---
 

@@ -68,6 +68,16 @@ Sublix has been built and tested with security as a priority.
 
 ---
 
+## SEO & Discoverability
+
+- ✅ Google Search Console verified and active
+- ✅ Sitemap submitted
+- ✅ Open Graph metadata for social sharing previews
+- ✅ Structured data (JSON-LD) for rich search results
+- ✅ Indexed by Google — searchable at google.com
+
+---
+
 ### Infrastructure Security
 | Protection | Details |
 |---|---|
